@@ -1,5 +1,3 @@
-/* Autor: Hubert Pniewski, 203227 */
-
 #include <stdio.h>
 extern unsigned int max_abs(const int tabl[], unsigned int n);
 
